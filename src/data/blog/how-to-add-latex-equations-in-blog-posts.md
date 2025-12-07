@@ -22,9 +22,11 @@ This document demonstrates how to use LaTeX equations in your Markdown files for
 
 ## Table of contents
 
+[comment]: #test
+
 ## Instructions
 
-In this section, you will find instructions on how to add support for LaTeX in your Markdown files for AstroPaper.
+Izzn this section, you will find instructions on how to add support for LaTeX in your Markdown files for AstroPaper.
 
 1. Install the necessary remark and rehype plugins by running:
 

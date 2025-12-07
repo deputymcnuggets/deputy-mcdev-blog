@@ -18,11 +18,11 @@ Domain registered with [Porkbun](https://porkbun.com/), hosted using Cloudflare 
 ## 📜 Markdown Reference
 
 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) - Also note Basic/Extended Syntax tabs at top.
-
 | Item | Description |
 | ----------- | ----------- |
 | Heading | `## Heading` - Number of # dictates heading level |
 | Page Separator/Divider/Wide Line | `---`|
+| Comment Hack | `[Hi this comment will be hidden]: #`|
 | Italic Text | `*My italic text.*` - *My italic text* |
 | Bold Text | `**My bold text.**` - **My bold text** |
 | Blockquote | `> My blockquote` - > My blockquote. To include paragraphs, just \> every line, including blank ones. |
