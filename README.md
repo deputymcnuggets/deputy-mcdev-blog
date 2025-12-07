@@ -55,9 +55,22 @@ Remember that many videos are unlisted.
 
 ### 🟩✅ Customization & Variables
 
+#### Base Website Settings
+
 Website title, posts per page and other basic settings defined in src\config.ts
 
+#### Theme - Colors/Page Width
+
 Website theme colors, maximum width defined in src\styles\global.css
+
+#### Font
+
+1. Import
+In console, run command to install font. Example for fonts from [Fontsource](https://fontsource.org/), is "pnpm add @fontsource/space-mono" or "pnpm add @fontsource-variable/inter".
+2. Define in Layout.astro
+In src\layouts\Layout.astro, import fonts at top of file.```bash test```
+
+#### Socials
 
 Socials defined in src\constants.ts
 Socials are automatically listed by components that request them, auto listing all defined ones.
