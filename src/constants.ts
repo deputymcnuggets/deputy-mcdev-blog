@@ -8,6 +8,8 @@ import IconWhatsapp from "@/assets/icons/IconWhatsapp.svg";
 import IconFacebook from "@/assets/icons/IconFacebook.svg";
 import IconTelegram from "@/assets/icons/IconTelegram.svg";
 import IconPinterest from "@/assets/icons/IconPinterest.svg";
+import IconReddit from "@/assets/icons/IconReddit.svg";
+import IconYoutube from "@/assets/icons/IconYoutube.svg";
 import { SITE } from "@/config";
 
 interface Social {
@@ -28,13 +30,13 @@ export const SOCIALS: Social[] = [
     name: "Youtube",
     href: "https://www.youtube.com/@DeputyMcDev",
     linkTitle: `${SITE.title} on Youtube`,
-    icon: IconBrandX,
+    icon: IconYoutube,
   },
     {
     name: "Reddit",
     href: "https://www.youtube.com/@DeputyMcDev",
     linkTitle: `${SITE.title} on Youtube`,
-    icon: IconBrandX,
+    icon: IconReddit,
   },
   {
     name: "Mail",
