@@ -17,12 +17,15 @@ Domain registered with [Porkbun](https://porkbun.com/), hosted using Cloudflare 
 
 ## 📜 Markdown Reference
 
+[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) - Also note Basic/Extended Syntax tabs at top.
+
 | Item | Description |
 | ----------- | ----------- |
 | Heading | `## Heading` - Number of # dictates heading level |
 | Page Separator/Divider/Wide Line | `---`|
 | Italic Text | `*My italic text.*` - *My italic text* |
 | Bold Text | `**My bold text.**` - **My bold text** |
+| Blockquote | `> My blockquote` - > My blockquote. To include paragraphs, just \> every line, including blank ones. |
 | New Line In Paragraph | Two spaces at end of line, followed by more text on immediate next line.<br>`<br>` to force in table. |
 | Link - Internal Heading | `[Link Text](#markdown-reference)` - [Link Text](#markdown-reference) |
 | Link - External Site | `[My Google Link](https://www.google.com)` - [My Google Link](https://www.google.com) |
