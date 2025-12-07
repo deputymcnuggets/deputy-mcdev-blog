@@ -1,31 +1,30 @@
 ---
-author: Sat Naing
+author: McDeputy
 pubDatetime: 2022-09-23T15:22:00Z
 modDatetime: 2025-06-13T16:52:45.934Z
-title: Adding new posts in AstroPaper theme
-slug: adding-new-posts-in-astropaper-theme
+title: My template post
+slug: my-template-post
 featured: false
-draft: true
+draft: false
 tags:
-  - docs
+  - personal
+  - gamedev
 description:
-  Some rules & recommendations for creating or adding new posts using AstroPaperr
-  theme.
+  A template blog post, with Frontmatter descriptions.
 ---
 
-Here are some rules/recommendations, tips & ticks for creating new posts in AstroPaper blog theme.
+[FRONTMATTER COMMENTS - DELETE THIS]: #
+[EASY GET DATE/TIME - Press F1, enter "Insert Formatted DateTime", enter enter]: #
+[DRAFT - REMEMBER TO EDIT THIS TO FALSE]: #
+[modDatetime - Can delete, add back if ever edit post]: #
+[featured - Whether it shows up under featured section on home page. Default false.]: #
+[ogImage - Image that shows when link is shared on social media that generates a "block preview". Delete if wanted - Will use config.ts og-image. Good size is 1200x630 or min 600x315]: #
 
-<figure>
-  <img
-    src="https://images.pexels.com/photos/159618/still-life-school-retro-ink-159618.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    alt="Free Classic wooden desk with writing materials, vintage clock, and a leather bag. Stock Photo"
-  />
-    <figcaption class="text-center">
-    Photo by <a href="https://www.pexels.com/photo/brown-wooden-desk-159618/">Pixabay</a>
-  </figcaption>
-</figure>
+Here's a table of contents. Delete it if wanted!
 
 ## Table of contents
+
+[CAN DELETE THIS AND BELOW]: #
 
 ## Creating a Blog Post
 

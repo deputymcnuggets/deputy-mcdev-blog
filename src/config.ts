@@ -4,7 +4,7 @@ export const SITE = {
   profile: "https://deputymc.dev/",
   desc: "Deputy's McDev Ongoings",
   title: "Deputy's McDev Stuff",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "og-image.png",
   lightAndDarkMode: true,
   postPerIndex: 8,
   postPerPage: 8,
